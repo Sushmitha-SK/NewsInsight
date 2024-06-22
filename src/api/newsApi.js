@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = '8d831c9b2832d931eb29ceb7cb49952e'
+const apiKey = '1afaabbf40d007597342cc44a808d3ba'
 const baseURL = 'https://gnews.io/api/v4'
 
 //Fetch news articles based on a specific category.
