@@ -12,7 +12,7 @@ News Insight is a React application that lets users browse, search, and favorite
 
 ## Deployed Link
 
-- http://localhost:3000/
+- https://news-insight-news-portal.vercel.app/
 
 ## Technologies Used
 
