@@ -1,4 +1,4 @@
-# News Portal
+# News Insight
 
 News Insight is a React application that lets users browse, search, and favorite news articles. It uses Redux for state management and Redux Persist for saving state across sessions.
 
